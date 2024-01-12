@@ -5,7 +5,7 @@ const db = mysql.createConnection({
   host:"database-1.creie00qckvq.ap-southeast-2.rds.amazonaws.com",
   port:"3306",
   user:"admin",
-  password:"Aaaa1111!",
+  password:"",
   database:"my_db",
 });
 
